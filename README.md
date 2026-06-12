@@ -15,13 +15,29 @@
 
 ---
 
-### 👩‍💻 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 B.E. Computer Science @ **Dr. J.J. Magdum College of Engineering** (2023–2027) | CGPA: 8.5/10
-- 💡 Passionate about building **scalable, user-focused** software solutions
-- 🏆 **1st Place** in College-Level Project Competition
-- 🌱 Currently exploring **Full Stack Development**
-- 🤝 Active NSS Volunteer | Team player & quick learner
+java
+public class Manasi {
+
+    String name        = "Manasi Madan Magdum";
+    String role        = "Full Stack Developer";
+    String college     = "Dr. J.J. Magdum College of Engineering, Jaysingpur";
+    String degree      = "B.Tech in Computer Science And Engineering (2023–2027)";
+    double cgpa        = 8.5;
+    String location    = "Maharashtra, India 📍";
+    String status      = "Open to SDE Internships & Placements 2026-27 🚀";
+
+    String[] languages = {"Java",  "Python", "JavaScript"};
+    String[] frontend  = {"React JS", "HTML5", "CSS3"};
+    String[] backend   = {"Core Java", "OOP", "Multithreading"};
+    String[] databases = {"MySQL", "SQL"};
+    String[] tools     = {"Git", "GitHub", , "VS Code", "IntelliJ"};
+    String[] concepts  = {"DSA", "DBMS", "OOP"};
+
+    String funFact     = "I debug with coffee ☕ and solve problems with logic 🧠";
+}
+
 
 ---
 
@@ -46,11 +62,33 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [ATM System Simulation](https://github.com/MagdumManasi/ATM-SYSTEM-IN-JAVA) | ATM simulation with withdrawal, deposit & authentication. Reduced errors by 40% via input validation | Java |
-| [Car Rental System](https://github.com/MagdumManasi/Car-Rental-System) | OOP-based system managing cars, customers & bookings. Reduced manual tracking by 80% | Java |
-| [Panchakarma Management System](https://github.com/MagdumManasi/Panchakarma-Managment-Sy...) | Management system for Panchakarma clinic operations | Java |
+|### 🏦 [ATM System Simulation](https://github.com/prajwalkarajange/ATM-SYSTEM-IN-JAVA) — Banking Simulation
+> Full-featured ATM simulation replicating real-world banking workflows
+
+| Feature | Detail |
+|---------|--------|
+| 🔐 Security | PIN-based auth with multi-layer input validation |
+| 💰 Operations | Withdrawal, deposit, balance inquiry, secure exit |
+| 🏗️ Architecture | OOP design — auth, transaction & account modules separated |
+| 📉 Error Reduction | *40% fewer* system errors via comprehensive exception handling |
+
+Java OOP Exception Handling PIN Auth Control Structures
+
+---
+
+### 🚗 [Car Rental System](https://github.com/prajwalkarajange/Car-Rental-System) — Rental Management
+> End-to-end car rental management with full process automation
+
+| Feature | Detail |
+|---------|--------|
+| 🚘 Management | Vehicles, customers, bookings managed end-to-end |
+| 💲 Pricing | Dynamic pricing logic using inheritance and polymorphism |
+| 📦 Storage | Persistent MySQL storage for scalable data management |
+| 📉 Efficiency | *80% less* manual tracking, *60% fewer* pricing discrepancies |
+
+Java OOP MySQL Dynamic Pricing Inheritance Polymorphism
+
+---
 
 ---
 
@@ -58,6 +96,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MagdumManasi&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MagdumManasi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,3 +109,23 @@
 - 📜 Certified in SQL Fundamentals
 - 🎤 Technical Poster Presentation participant
 - 🤝 Active NSS Volunteer (2025–2026)
+
+- ## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manasi-magdum-bb4199291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:magdummanasi47@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MagdumManasi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+📧 *Email:* magdummanasi47@gmail.com
+💼 *LinkedIn:* https://www.linkedin.com/in/manasi-magdum-bb4199291/
+📱 *Phone:* +91-7028498937
+📍 *Location:* sangli, Maharashtra, India
