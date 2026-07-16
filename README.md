@@ -64,10 +64,9 @@ public class Manasi {
 ### 🚀 Featured Projects
 
 
-# 🌍 Tour Enquiry REST API
+#|###🌍 Tour Enquiry REST API
 
 The **Tour Enquiry REST API** is a backend application developed using **Spring Boot 3** that allows travel agencies to manage customer tour enquiries efficiently.
-
 The application provides complete **CRUD (Create, Read, Update, Delete)** operations through REST APIs and validates user input using **Hibernate Validator**.
 
 # 🛠️ Tech Stack
@@ -93,7 +92,7 @@ The application provides complete **CRUD (Create, Read, Update, Delete)** operat
 
 
 
-|### 🏦 [ATM System Simulation](https://github.com/prajwalkarajange/ATM-SYSTEM-IN-JAVA) — Banking Simulation
+|### 🏦 [ATM System Simulation](https://github.com/MagdumManasi/ATM-SYSTEM-IN-JAVA) — Banking Simulation
 > Full-featured ATM simulation replicating real-world banking workflows
 
 | Feature | Detail |
@@ -107,7 +106,7 @@ Java OOP Exception Handling PIN Auth Control Structures
 
 ---
 
-### 🚗 [Car Rental System](https://github.com/prajwalkarajange/Car-Rental-System) — Rental Management
+### 🚗 [Car Rental System](https://github.com/MagdumManasi/Car-Rental-System) — Rental Management
 > End-to-end car rental management with full process automation
 
 | Feature | Detail |
