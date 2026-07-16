@@ -64,6 +64,11 @@ public class Manasi {
 ### 🚀 Featured Projects
 
 
+# 🌍 Tour Enquiry REST API
+
+The **Tour Enquiry REST API** is a backend application developed using **Spring Boot 3** that allows travel agencies to manage customer tour enquiries efficiently.
+
+The application provides complete **CRUD (Create, Read, Update, Delete)** operations through REST APIs and validates user input using **Hibernate Validator**.
 
 # 🛠️ Tech Stack
 
