@@ -63,6 +63,31 @@ public class Manasi {
 
 ### 🚀 Featured Projects
 
+
+
+# 🛠️ Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| Java 21 | Programming Language |
+| Spring Boot 3 | Backend Framework |
+| Spring Web | REST API Development |
+| Hibernate Validator | Input Validation |
+| Lombok | Boilerplate Code Reduction |
+| Maven | Dependency Management |
+| Postman | API Testing |
+
+
+
+
+
+
+
+
+
+
+
+
 |### 🏦 [ATM System Simulation](https://github.com/prajwalkarajange/ATM-SYSTEM-IN-JAVA) — Banking Simulation
 > Full-featured ATM simulation replicating real-world banking workflows
 
